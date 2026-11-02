@@ -37,7 +37,7 @@ module.exports.createListing = async (req,res)=>{
 
     let response = await fetch(mapUrl, {
         headers: {
-            "User-Agent": "wanderlust-app"
+            "User-Agent": "roamly-app"
         }
     });
     let data = await response.json();

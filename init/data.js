@@ -906,7 +906,7 @@ const listings = [
   {
     title: "Svalbard Snowfield Cabin – Longyearbyen",
     description:
-      "The northernmost travel stay on Wanderlust — a heated expedition cabin at 78°N on the Svalbard archipelago, accessible by snowmobile across a frozen landscape of glaciers and mountains. Polar nights give way to auroras; the midnight sun blazes in summer. Guided polar bear safety walks, ice caving, and snowmobile glacier tours are the order of each day. As remote as it gets.",
+      "The northernmost travel stay on Roamly — a heated expedition cabin at 78°N on the Svalbard archipelago, accessible by snowmobile across a frozen landscape of glaciers and mountains. Polar nights give way to auroras; the midnight sun blazes in summer. Guided polar bear safety walks, ice caving, and snowmobile glacier tours are the order of each day. As remote as it gets.",
     price: 25000,
     location: "Longyearbyen",
     country: "Norway",
